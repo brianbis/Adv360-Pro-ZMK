@@ -17,7 +17,7 @@
               "&kp LSHFT",        "&kp Z",        "&kp X",    "&kp C",     "&kp V",  "&kp B",                                         "&sl 3",                        "&none",                              "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
        "&kp LEFT_CONTROL", "&kp LEFT_WIN", "&kp LEFT_ALT", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE", "&kp DELETE",   "&tog 2",                        "&none", "&kp ENTER",       "&sl 3",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",    "&tog 1"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+        "&none", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
